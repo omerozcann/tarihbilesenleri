@@ -1,0 +1,11 @@
+D:\Belgeler\Visual Studio 2022\Projects\datetimepickerornek\datetimepickerornek\bin\Debug\datetimepickerornek.exe.config
+D:\Belgeler\Visual Studio 2022\Projects\datetimepickerornek\datetimepickerornek\bin\Debug\datetimepickerornek.exe
+D:\Belgeler\Visual Studio 2022\Projects\datetimepickerornek\datetimepickerornek\bin\Debug\datetimepickerornek.pdb
+D:\Belgeler\Visual Studio 2022\Projects\datetimepickerornek\datetimepickerornek\obj\Debug\datetimepickerornek.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2022\Projects\datetimepickerornek\datetimepickerornek\obj\Debug\datetimepickerornek.csproj.SuggestedBindingRedirects.cache
+D:\Belgeler\Visual Studio 2022\Projects\datetimepickerornek\datetimepickerornek\obj\Debug\datetimepickerornek.datetimeFrm.resources
+D:\Belgeler\Visual Studio 2022\Projects\datetimepickerornek\datetimepickerornek\obj\Debug\datetimepickerornek.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2022\Projects\datetimepickerornek\datetimepickerornek\obj\Debug\datetimepickerornek.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2022\Projects\datetimepickerornek\datetimepickerornek\obj\Debug\datetimepickerornek.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2022\Projects\datetimepickerornek\datetimepickerornek\obj\Debug\datetimepickerornek.exe
+D:\Belgeler\Visual Studio 2022\Projects\datetimepickerornek\datetimepickerornek\obj\Debug\datetimepickerornek.pdb
